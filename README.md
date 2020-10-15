@@ -10,7 +10,7 @@ HTML is the foundation of all web pages. It defines the structure of a page, whi
 
 **What will the student work on?**
 
-*The students will create a(n) X.* 
+*The students will create a(n) X.*
 
 *Other tutorials do x, y, z, but we want to get you up and running without shying away from the interesting components and extensions your project can have.*
 
@@ -22,7 +22,7 @@ https://lab.github.com/githubtraining/introduction-to-html
 *Suggested Learning Objectives*
 ### **Week 1**
 
-*Describe what you're doing this week*
+This week we will focus on setting up our local environments, getting an introduction to HTML and creating our first HTML web page.
 
 **Objective: *Learn the basics of HTML/HTML5***
 
@@ -34,8 +34,7 @@ https://lab.github.com/githubtraining/introduction-to-html
 
 **Homework**
 
-- *Students will be given a(n) X*
-- *Asked to create a(n) Y*
+You would be a given a simple text file and an image from the cover of a book and your task would be to convert that information into a styled web page.
 
 
 ### **Week 2**
@@ -48,7 +47,7 @@ https://lab.github.com/githubtraining/introduction-to-html
 - Overriding CSS/Inheritance
 - Padding/Margin/Attributes
 - CSS Variables
-- Colors (hex codes) 
+- Colors (hex codes)
 - Lists
 - Images
 
@@ -95,5 +94,4 @@ https://lab.github.com/githubtraining/introduction-to-html
 
 ### **Final Project**
 
-Create a personal website for you, or your favorite movie/anime/life character. 
-
+Create a personal website for you, or your favorite movie/anime/life character.
